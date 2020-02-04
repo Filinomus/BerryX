@@ -1,1 +1,1 @@
-![Image alt] (https://github.com/Filinomus/BerryX/raw/berryx.png)
+![Image alt] (https://github.com/Filinomus/BerryX/berryx.png)
