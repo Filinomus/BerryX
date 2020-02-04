@@ -1,3 +1,3 @@
 ![Иллюстрация к проекту](https://github.com/Filinomus/BerryX/blob/master/berryx.png)
 # BerryX
-<h5>Cooperative Token</h5>
+<h2>Cooperative Token</h2>
